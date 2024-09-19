@@ -1,0 +1,11 @@
+.navbar a {
+    color: black;
+    font-size: 14px;
+    text-decoration: none;
+    margin-left: 35px;
+    transition: 3s;
+}
+
+.navbar a:hover {
+    color: #f00;
+}
